@@ -12,3 +12,4 @@ C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\refi
 C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\CommandPattern.pdb
 C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\CommandPattern.genruntimeconfig.cache
 C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\ref\CommandPattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CommandPattern\obj\Debug\net8.0\CommandPattern.sourcelink.json

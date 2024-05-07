@@ -12,3 +12,4 @@ C:\Users\CtrlS_Work_A\Desktop\DesignPattern\IteratorPattern\obj\Debug\net8.0\ref
 C:\Users\CtrlS_Work_A\Desktop\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.pdb
 C:\Users\CtrlS_Work_A\Desktop\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.genruntimeconfig.cache
 C:\Users\CtrlS_Work_A\Desktop\DesignPattern\IteratorPattern\obj\Debug\net8.0\ref\IteratorPattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\IteratorPattern\obj\Debug\net8.0\IteratorPattern.sourcelink.json
