@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPattern", "Observer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.csproj", "{F1056F18-0A88-41CD-BAB9-CF3EEA73CA81}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryPattern", "AbstractFactoryPattern\AbstractFactoryPattern.csproj", "{15C14063-78A2-4433-B612-AC08A5931A54}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{F1056F18-0A88-41CD-BAB9-CF3EEA73CA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F1056F18-0A88-41CD-BAB9-CF3EEA73CA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F1056F18-0A88-41CD-BAB9-CF3EEA73CA81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C14063-78A2-4433-B612-AC08A5931A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C14063-78A2-4433-B612-AC08A5931A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C14063-78A2-4433-B612-AC08A5931A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C14063-78A2-4433-B612-AC08A5931A54}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

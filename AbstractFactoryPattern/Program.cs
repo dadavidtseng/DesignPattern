@@ -1,4 +1,4 @@
-﻿namespace FactoryMethodPattern;
+﻿namespace AbstractFactoryPattern;
 
 public static class Program
 {
