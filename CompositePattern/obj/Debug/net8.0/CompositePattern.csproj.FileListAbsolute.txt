@@ -1,0 +1,15 @@
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\bin\Debug\net8.0\CompositePattern.exe
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\bin\Debug\net8.0\CompositePattern.deps.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\bin\Debug\net8.0\CompositePattern.runtimeconfig.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\bin\Debug\net8.0\CompositePattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\bin\Debug\net8.0\CompositePattern.pdb
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\CompositePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\CompositePattern.AssemblyInfoInputs.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\CompositePattern.AssemblyInfo.cs
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\CompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\CompositePattern.sourcelink.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\CompositePattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\refint\CompositePattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\CompositePattern.pdb
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\CompositePattern.genruntimeconfig.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\CompositePattern\obj\Debug\net8.0\ref\CompositePattern.dll
