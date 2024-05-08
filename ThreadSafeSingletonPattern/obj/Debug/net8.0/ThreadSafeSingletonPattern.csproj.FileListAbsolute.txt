@@ -1,0 +1,15 @@
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\bin\Debug\net8.0\ThreadSafeSingletonPattern.exe
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\bin\Debug\net8.0\ThreadSafeSingletonPattern.deps.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\bin\Debug\net8.0\ThreadSafeSingletonPattern.runtimeconfig.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\bin\Debug\net8.0\ThreadSafeSingletonPattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\bin\Debug\net8.0\ThreadSafeSingletonPattern.pdb
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ThreadSafeSingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ThreadSafeSingletonPattern.AssemblyInfoInputs.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ThreadSafeSingletonPattern.AssemblyInfo.cs
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ThreadSafeSingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ThreadSafeSingletonPattern.sourcelink.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ThreadSafeSingletonPattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\refint\ThreadSafeSingletonPattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ThreadSafeSingletonPattern.pdb
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ThreadSafeSingletonPattern.genruntimeconfig.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\ThreadSafeSingletonPattern\obj\Debug\net8.0\ref\ThreadSafeSingletonPattern.dll

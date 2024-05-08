@@ -1,0 +1,15 @@
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\bin\Debug\net8.0\NaïveSingletonPattern.exe
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\bin\Debug\net8.0\NaïveSingletonPattern.deps.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\bin\Debug\net8.0\NaïveSingletonPattern.runtimeconfig.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\bin\Debug\net8.0\NaïveSingletonPattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\bin\Debug\net8.0\NaïveSingletonPattern.pdb
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\NaiveSingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\NaiveSingletonPattern.AssemblyInfoInputs.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\NaiveSingletonPattern.AssemblyInfo.cs
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\NaiveSingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\NaiveSingletonPattern.sourcelink.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\NaïveSingletonPattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\refint\NaïveSingletonPattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\NaïveSingletonPattern.pdb
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\NaiveSingletonPattern.genruntimeconfig.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\NaiveSingletonPattern\obj\Debug\net8.0\ref\NaïveSingletonPattern.dll
