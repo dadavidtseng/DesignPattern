@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CompositePattern")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PrototypePattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+423cc3981f408326f79a1d0e9c7583d8b9ed6568")]
-[assembly: System.Reflection.AssemblyProductAttribute("CompositePattern")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CompositePattern")]
+[assembly: System.Reflection.AssemblyProductAttribute("PrototypePattern")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PrototypePattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 類別產生。

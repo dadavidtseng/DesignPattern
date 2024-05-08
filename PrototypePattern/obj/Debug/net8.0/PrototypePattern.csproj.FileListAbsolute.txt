@@ -1,0 +1,15 @@
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.exe
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.deps.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.runtimeconfig.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\bin\Debug\net8.0\PrototypePattern.pdb
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.AssemblyInfoInputs.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.AssemblyInfo.cs
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.sourcelink.json
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\refint\PrototypePattern.dll
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.pdb
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\PrototypePattern.genruntimeconfig.cache
+C:\Users\CtrlS_Work_A\Desktop\DesignPattern\PrototypePattern\obj\Debug\net8.0\ref\PrototypePattern.dll
